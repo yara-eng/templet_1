@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Swathi, T.
+AU  - Kasiviswanath, N.
+AU  - Rao, A. Ananda
+PY  - 2022
+DA  - 2022/09/01
+TI  - An optimal deep learning-based LSTM for stock price prediction using twitter sentiment analysis
+JO  - Applied Intelligence
+SP  - 13675
+EP  - 13688
+VL  - 52
+IS  - 12
+AB  - Stock Price Prediction is one of the hot research topics in financial engineering, influenced by economic, social, and political factors. In the present stock market, the positive and negative opinions are the important indicators for the forthcoming stock prices. At the same time, the growth of the internet and social network enables the clients to express their opinions and shares their views on future stock processes. Therefore, sentiment analysis of the social media data of stock prices helps to predict future stock prices effectively. With this motivation, this research presents a new novel Teaching and Learning Based Optimization (TLBO) model with Long Short-Term Memory (LSTM) based sentiment analysis for stock price prediction using Twitter data. The tweets are generally short, having unusual grammatical structures, and hence the data pre-processing is essential to remove the unwanted data and transform it into a meaningful format. Besides, the LSTM model is applied to classify tweets into positive and negative sentiments related to stock prices. They help investigate how the tweets correlate with the nature of the stock market prices. To improve the predictive outcome of the LSTM model, the Adam optimizer is used to determine the learning rate. Furthermore, the TLBO model is applied to tune the output unit of the LSTM model optimally. Experiments are carried out on the Twitter data to ensure the better stock price predictive performance of the TLBO-LSTM model. The experimental findings of the TLBO-LSTM model show promising results over the state of art methods in terms of diverse aspects. The TLBO-LSTM model produced a superior outcome, with a maximum precision of 95.33%, a recall of 85.28%, and an F-score of 90%. By achieving a greater accuracy of 94.73%, the TLBO-LSTM model surpassed the other techniques.
+SN  - 1573-7497
+UR  - https://doi.org/10.1007/s10489-022-03175-2
+DO  - 10.1007/s10489-022-03175-2
+ID  - Swathi2022
+ER  - 
